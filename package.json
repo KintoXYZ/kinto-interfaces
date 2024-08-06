@@ -1,0 +1,9 @@
+{
+  "name": "kinto-interfaces",
+  "version": "1.0.0",
+  "description": "Kinto Contract Interfaces",
+  "main": "index.js",
+  "repository": "git@github.com:KintoXYZ/kinto-interfaces.git",
+  "author": "KintoXYZ",
+  "license": "MIT"
+}

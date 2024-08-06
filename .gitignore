@@ -1,0 +1,6 @@
+# Compiler files
+cache/
+out/
+bin
+
+.DS_Store
