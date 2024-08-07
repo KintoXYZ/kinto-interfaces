@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:KintoXYZ/kinto-interfaces.git",
   "author": "KintoXYZ",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "accountabstraction": "KintoXYZ/account-abstraction"
+  }
 }

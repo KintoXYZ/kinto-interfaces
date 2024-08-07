@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
-import "@aa/interfaces/IEntryPoint.sol";
+import "accountabstraction/interfaces/IEntryPoint.sol";
 
 interface IKintoEntryPoint is IEntryPoint {
     function walletFactory() external view returns (address);
