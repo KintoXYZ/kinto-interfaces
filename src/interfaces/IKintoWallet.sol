@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
-import {IEntryPoint} from "@aa/core/BaseAccount.sol";
+import {IEntryPoint} from "accountabstraction/core/BaseAccount.sol";
 import {IKintoWalletFactory} from "./IKintoWalletFactory.sol";
 import {IKintoID} from "./IKintoID.sol";
 import {IKintoAppRegistry} from "./IKintoAppRegistry.sol";
